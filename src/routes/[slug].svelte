@@ -18,7 +18,7 @@
 </script>
 
 <svelte:head>
-	<title>Terrakion Blog | </title>
+	<title>Terrakion Blog | {page.title}</title>
 </svelte:head>
 
 <h1 class="text-4xl font-semibold mb-5">{page.title}</h1>
