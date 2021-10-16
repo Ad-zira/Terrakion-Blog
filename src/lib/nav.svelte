@@ -19,9 +19,6 @@
         <a href={`/${slug}`} class="btn btn-ghost btn-sm rounded-btn">{title}</a>
       {/each}
     </div>
-    <div class="custom-select-theme">
-      <ThemeSelect />
-    </div>
   </div> 
   <div class="navbar-end">
     <button class="btn btn-square btn-ghost">
@@ -34,5 +31,8 @@
         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>             
       </svg>
     </button>
+  </div>
+  <div class="custom-select-theme">
+    <ThemeSelect />
   </div>
 </div>
