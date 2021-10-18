@@ -7,8 +7,8 @@
 <div class="navbar mb-2 shadow-lg bg-neutral text-neutral-content rounded-box">
   <div class="px-2 mx-2 navbar-start">
     <span class="text-lg font-bold">
-            Terrakion Blog
-          </span>
+      Terrakion Blog
+    </span>
   </div> 
   <div class="px-2 mx-2 navbar-center">
     <div class="home">
